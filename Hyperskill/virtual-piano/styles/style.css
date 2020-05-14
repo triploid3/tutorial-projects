@@ -1,0 +1,212 @@
+html {
+    background-color: darkcyan;
+    opacity 0.3
+}
+
+.white-keys {
+    background-color: white;
+    height: 403px;
+    width: 780px;
+    margin-left: 320px;
+    margin-top: 200px;
+}
+
+.a {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.s {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.d {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.f {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.g {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.h {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.j {
+    display: inline-block;
+    width: 104px;
+    height: 397px;
+    border-top-width: 6px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    text-align: center;
+    font-size: 300%;
+}
+
+.black-keys {
+    margin-top: -403px;
+    color: antiquewhite;
+}
+
+.w {
+    display: inline-block;
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    text-justify: auto;
+    font-size: 250%;
+    margin-left: 403px;
+}
+
+.e {
+    display: inline-block;
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    text-justify: auto;
+    font-size: 250%;
+    margin-left: 58px;
+}
+
+.t {
+    display: inline-block;
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    text-justify: auto;
+    font-size: 250%;
+    margin-left: 170px;
+}
+
+.y {
+    display: inline-block;
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    text-justify: auto;
+    font-size: 250%;
+    margin-left: 58px;
+}
+
+.u {
+    display: inline-block;
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    text-justify: auto;
+    font-size: 250%;
+    margin-left: 58px;
+}
